@@ -1,2 +1,2 @@
-# hello_world_scrapy
+# Hello World
 Part of Curso de Scrapy 🕷
